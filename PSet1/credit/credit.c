@@ -60,6 +60,7 @@ LL get_number()
     return number;
 }
 
+// get length of this number
 int get_len(LL number)
 {
     int len = 0;
